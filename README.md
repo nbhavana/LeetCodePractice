@@ -1,1 +1,1 @@
-This repository contain Leedcode solutions
+This repository contain Leetcode solutions
